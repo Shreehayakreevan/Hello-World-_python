@@ -1,0 +1,9 @@
+This is a simple Python program that prints "Hello, World!" to the console.
+
+## Instructions:
+
+1. Make sure you have Python installed on your system. You can download it from [python.org](https://www.python.org/).
+2. Open a terminal or command prompt.
+3. Navigate to the directory where you saved `hello_world.py`.
+4. Run the program by typing `python hello_world.py` and pressing Enter.
+5. You should see "Hello, World!" printed to the console.
